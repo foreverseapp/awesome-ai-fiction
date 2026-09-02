@@ -80,6 +80,7 @@ English version → [README.md](README.md)
 - [猫箱](https://maoxiangai.com) — 字节跳动旗下中文 AI 角色互动 App（原名"话炉"），基于豆包大模型；iOS/Android；免费可用，会员订阅解锁"灵动模式"与更长语音通话时长。
 - [Nomi](https://nomi.ai) — 主打长期记忆与群聊的伴侣应用；免费档 + 订阅。
 - [Replika](https://replika.com) — 2017 年上线，最早出圈的 AI 伴侣之一；3D 形象养成，免费 + Pro 订阅。
+- [RizzMaster](https://rizzmaster.net) — iOS 上的 AI 恋爱模拟游戏：左右滑动匹配后，与拥有持久记忆的角色互发消息，每条消息都会改变好感度，从 Level 0 一路升到 Rizz Master 共九级，角色也可能已读不回甚至永久拉黑你。免费档有每日消息上限，订阅后解除；无需注册账号，支持 15 种语言。
 - [Talkie](https://www.talkie-ai.com) — MiniMax 星野的国际版；免费可玩，变现走 Talkie+ 订阅与 "Soul Card" 收集卡牌；原 App 在美区 App Store 下架后，现行 iOS 上架名为 "Talkie Lab"。
 - [星野](https://www.xingyeai.com) — MiniMax（稀宇科技）旗下中文 AI 智能体社区（2023 年 9 月上线，仅移动端无网页聊天）：用户自建智能体的形象、声音、人设并分享到社区，主打沉浸剧情与情感陪伴。
 - [筑梦岛](https://zhumengdao.com) — 阅文系（上海筑梦岛人工智能科技）AI 伴侣 App："梦中人"自定义人设、多角色群聊、小剧场情境对话；iOS/Android。
