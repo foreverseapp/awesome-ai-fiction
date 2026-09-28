@@ -41,6 +41,7 @@ English version → [README.md](README.md)
 
 - [笔灵AI小说](https://ibiling.cn/novel-workbench/) — 笔灵旗下小说工作台：100+ 生成器（大纲 / 设定 / 人物）、长篇编辑器、爆款小说拆解与素材库；可免费试用，完整功能走会员付费。
 - [岱宗写作](https://www.daizongxiezuo.com) — 自称"写作圈的 Cursor"的中文长篇工具：故事圣经 + 滚动摘要 + 知识图谱给 AI 项目级记忆，主打写到 200 章不忘设定；Windows/macOS/Android/iOS 多端客户端；默认模型开箱即用，也支持配置自定义模型。
+- [ImagineYourBook](https://www.imagineyourbook.com) — 面向作者的网页写作套件：根据创作简报按章规划并起草整部书稿，系列故事圣经可把角色与设定带进续作，支持上传 Word/Markdown/文本/HTML 做稿件改写，导出 Word、EPUB、Markdown 并生成封面；官方说明成品稿需作者自行审读后再出版。
 - [解忧笔札AI](https://xs.jieyoupu.com) — 面向小说作者的中文助手，核心卖点是伏笔管理（未填坑检测、坑点图谱、填坑建议），另有人物小传、情节结构与节奏分析；在线版会员制，离线买断版 ¥980，支持 Ollama 本地模型（Windows/Mac/Android）。
 - [LocalProse](https://www.localprose.com/en/) — 桌面写作套件（Windows/macOS/Linux）：内置本地 AI 引擎，首次启动按机器硬件配置自动适配；Pro 为一次性终身买断而非订阅；手机伴侣 App 经局域网 Wi-Fi 同步，不走云端。
 - [马良写作](https://maliangwriter.com) — 中文网文创作平台：7 个专业 Agent（主管 / 结构 / 章节蓝图 / 内容生成 / 设定 / 一致性检查 / 纠错）共享知识图谱协作出章；免费注册，按模型调用量以积分计费。
