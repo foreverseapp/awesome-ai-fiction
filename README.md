@@ -80,6 +80,7 @@ Companion apps optimize for a persistent relationship rather than one-off scenes
 - [Maoxiang (猫箱)](https://maoxiangai.com) — ByteDance's Chinese roleplay/companion app built on its Doubao models; iOS/Android; free with a membership subscription that adds a smarter mode and longer voice calls.
 - [Nomi](https://nomi.ai) — Companion app whose marketed focus is long-term memory and group chats; free tier plus subscription.
 - [Replika](https://replika.com) — Launched in 2017, one of the earliest mainstream AI companions; avatar-based, freemium with a Pro subscription.
+- [Sammi: AI Girlfriend](https://sammiai.app/) — Android companion app for fictional character text chat, voice interaction, customization and creative roleplay; free download with in-app purchases.
 - [Talkie](https://www.talkie-ai.com) — International edition of MiniMax's Xingye; free to use, monetized through a Talkie+ subscription and collectible "Soul Cards"; after the original app's US App Store removal, the current iOS listing is titled "Talkie Lab".
 - [Xingye (星野)](https://www.xingyeai.com) — MiniMax's Chinese companion/roleplay community app (mobile-only, no web chat); users create and share agents with custom persona, voice, and appearance.
 - [Zhumengdao (筑梦岛)](https://zhumengdao.com) — Chinese companion app from the Yuewen (阅文) ecosystem, operated by Shanghai Zhumengdao AI Technology; custom "dream companion" characters, multi-character group chats, and scenario "small theater" play; iOS/Android.
