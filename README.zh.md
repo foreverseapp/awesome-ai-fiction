@@ -32,6 +32,7 @@ English version → [README.md](README.md)
 - [Foreverse（新梦）](https://foreverse.cn) — 安卓端阅读器：导入本地 TXT/EPUB 小说后，划选任意段落让 AI 续写、改写、配图，每次续写保留为原文旁的独立分支；BYOK 自带 60+ 供应商 Key（密钥只存本机），也兼容 SillyTavern 角色卡（见[酒馆分类](#酒馆前端与角色扮演平台)）。
 - [Friends & Fables](https://fables.gg) — 浏览器端桌面 RPG：AI 主持人 "Franz" 按 D&D 5e SRD 规则跑团，带战斗地图和长期设定记忆；免费档限每日回合数，订阅解锁不限量；支持单人或最多六人组队。
 - [NovelAI](https://novelai.net) — 订阅制故事生成器（仅试用无永久免费档），模型自研训练；带 lorebook 上下文管理，另附动漫风图像生成。
+- [Ouba](https://www.ouba.art) — 面向读者的 AI 互动小说与恋爱故事平台（网页 + iOS/Android）；支持预设分支选项与自由输入续写，提供免登录免费额度与付费点券包。
 - [Perchance AI 故事生成器](https://perchance.org/ai-story-generator) — Perchance 生成器平台上的免费故事写手，无需注册登录；逐段生成、逐段引导方向；社区共建、广告支持。
 - [StoryLord](https://www.gennovel.app/zh-cn) — 网页应用：上传已有小说（TXT/DOCX/Markdown），AI 保持原著文风续写或改写；积分制，注册送 100 积分；支持含中文在内的 9 种语言。
 
