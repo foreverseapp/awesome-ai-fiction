@@ -123,6 +123,7 @@ English version → [README.md](README.md)
 
 不靠体感比较"哪个模型写小说强"的几条路：带反 AI 味（slop）指标的评审型写作榜（EQ-Bench）、约束满足式的命题写作测试（lechmazur/writing），以及用真实小说构建的长上下文理解基准（Fiction.liveBench、NoCha）。长上下文这组尤其要紧——续写和角色扮演的成败，就压在模型真正"记得住"多少故事上。
 
+- [AI Story Apps Benchmark 2026](https://github.com/ouba-studio/ai-story-apps-benchmark-2026) — CC-BY-4.0 开源评测数据集，实测 10 款消费级 AI 互动故事应用的首段开读耗时、免费轮数墙、广告帧、响应延迟及 15 轮上下文记忆；永久存档于 Harvard Dataverse（DOI `10.7910/DVN/YEBHQR`）。
 - [EQ-Bench Creative Writing / Longform](https://eqbench.com/creative_writing_longform.html) — LLM 评审的长文写作榜：追踪 slop（AI 高频套话）、复读率和长文后段质量衰减；配套 slop 检测工具开源。
 - [Fiction.liveBench](https://fiction.live/stories/Fiction-liveBench-Mar-25-2025/oQdzQvKHw8JyXbN87) — 用真实连载网文构建的长上下文理解基准：同一故事按不同上下文长度切档测试，定位模型在多长上下文开始"读不懂"；随新模型定期重发。
 - [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing) — 命题写作：每个模型必须把 10 个指定要素（角色 / 物件 / 基调……）织进一篇短故事；由多个 LLM 评审对同题故事两两对比打分。
